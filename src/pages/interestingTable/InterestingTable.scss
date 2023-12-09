@@ -1,0 +1,13 @@
+.interesting-table {
+  .header {
+  }
+  .header > div {
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}
+.interesting {
+  width: 100%;
+  flex-wrap: wrap;
+  justify-content: center;
+}
